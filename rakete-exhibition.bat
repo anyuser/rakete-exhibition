@@ -1,0 +1,1 @@
+start /d "." rakete.exe -exhibition
