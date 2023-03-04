@@ -7,15 +7,15 @@ Copy the scripts into the folder next to the game executable and run the script.
 ```
 // mac
 rakete.app
-rakete.sh
+rakete.sh <- here
 
 // windows
 rakete.exe
 rakete_Data
-rakete.bat
+rakete.bat <- here
 
 // linux
 rakete
 rakete_Data
-rakete.sh
+rakete.sh <- here
 ```
