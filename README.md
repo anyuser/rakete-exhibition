@@ -40,7 +40,7 @@ You can confirm that it works if you are able to start the game with only the fo
 
 To simplify running the game in exhibition mode, you can use the scripts provided here. The scripts just start the game with the ```-exhibition``` parameter. 
 
-- Download the scripts: Click on the green button "Code" -> "Download ZIP". 
+- Download the scripts: On [this website](https://github.com/anyuser/rakete-exhibition), click on the green button "Code" -> "Download ZIP". 
 - Unzip and copy one of the scripts into the folder where your game executable is located (see examples below).
 - Run that script instead of rakete.app.
 
