@@ -4,7 +4,7 @@ Information and scripts for running [Rakete](https://rakete.li) in exhibition mo
 
 ## Game Download
 
-The game can be bought here: https://playables.itch.io/rakete
+The game can be bought here: https://playables.itch.io/rakete  
 If you rent one of the controllers, you'll get a link to a free download.
 
 ## Exhibition mode
