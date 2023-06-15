@@ -17,6 +17,7 @@ Rakete has an "exhibition mode" that does the following:
 - Starts the game immediately after pressing a button on the title screen, without level selection screen
 - Shows info text so it makes sense with the controller
 - Automatically restarts after some idle time
+- Sets the input keys to ```C V B N M```. any manually set overrides are ignored.
 
 ### How to activate it?
 
@@ -62,7 +63,7 @@ rakete.sh <- here
 ```
 
 
-## Controller
+## "Official" Rakete Controller
 
 ## Installation
 
@@ -84,7 +85,6 @@ LED colors:
 - orange:  Pedal attached, but not pressed
 - green: Plugged pedal is pressed
 
-
 ### Controller 1/2
 
 Improved version with custom PCB.
@@ -94,3 +94,8 @@ LED colors:
 - blue: No pedal attached.
 - red: Pedal attached, but not pressed
 - white: Attached pedal is pressed
+
+
+## Build your own controller
+
+If you want to build your own controller, you can use any device that can emulate keyboard input, like [Arduino Leonardo](https://docs.arduino.cc/hardware/leonardo) or many others. Note that in exhibition mode, the input is hardcoded to the default keyboard bindings ```C V B N M```.
