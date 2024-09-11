@@ -2,6 +2,9 @@
 
 Information and scripts for running [Rakete](https://rakete.li) in exhibition mode with the custom controller.
 
+![controller_0](/images/controller_0.jpg)  
+_The original prototype aka "controller 0"_
+
 ## Game Download
 
 The game can be bought here: https://playables.itch.io/rakete  
@@ -95,7 +98,13 @@ LED colors:
 - red: Pedal attached, but not pressed
 - white: Attached pedal is pressed
 
+![controller_1](/images/controller_1.jpg)  
+_Controller 1_
+
 
 ## Build your own controller
 
 If you want to build your own controller, you can use any device that can emulate keyboard input, like [Arduino Leonardo](https://docs.arduino.cc/hardware/leonardo) or many others. Note that in exhibition mode, the input is hardcoded to the default keyboard bindings ```C V B N M```.
+
+![controller_1pcb](/images/controller_1pcb.jpg)  
+_Controller 1 PCB_
